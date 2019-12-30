@@ -1,0 +1,14 @@
+PbPNetAddress: 127.0.0.1:4647
+PbPProxyListenAddress: 0.0.0.0:4648
+PbPNetTimeout: 5s
+PbPPollIntervalStopped: 2s
+PbPPollIntervalPlaying: 1s
+TallyNetProtocol: tcp
+TallyNetAddress: 127.0.0.1:5727
+TallyNetTimeout: 5s
+TallyAddressClipName: 0
+TallyAddressClipDuration: 1
+TallyAddressElapsed: 2
+TallyAddressRemaining: 3
+TallyAddressPreviewClipName: 4
+TallyAddressPreviewClipDuration: 5
